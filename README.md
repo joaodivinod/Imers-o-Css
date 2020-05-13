@@ -5,3 +5,5 @@
 * Seletores CSS
 * Edição de texto
 * Alinhamento de conteúdo 
+## Conteúdo da 2º aula
+### *Sites Responsivos*
