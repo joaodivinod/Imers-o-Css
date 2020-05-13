@@ -1,0 +1,7 @@
+# Imersão CSS Alura
+## Conteúdo da 1º aula
+### *Página pessoal*
+* Estrutura do documento HTML
+* Seletores CSS
+* Edição de texto
+* Alinhamento de conteúdo 
