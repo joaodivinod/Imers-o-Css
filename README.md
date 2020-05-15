@@ -10,3 +10,10 @@
 * Mobile First 
 * Media Queries
 * Emulador de dispositivos moveis no navegador 
+ ## Conteúdo da 3º aula
+### *Colunas e Linhas*
+* Css Grid 
+* Grid Elements
+*  Grid Columns
+* Grid Rows
+*  Grid Gaps
