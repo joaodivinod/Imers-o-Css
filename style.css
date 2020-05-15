@@ -170,7 +170,6 @@ a:hover {
   }
 }
 
-
 .portfolio .grid {
   display: grid;
   gap: 2em;
@@ -236,11 +235,6 @@ a:hover {
   object-position: left bottom;
   transition: transform 500ms;
 }
-
-/* .img-portfolio:hover {
-  transform: scale(1.2) rotate(-2deg);
-} */
-
 .contato .icons {
   text-align: center;
 }
